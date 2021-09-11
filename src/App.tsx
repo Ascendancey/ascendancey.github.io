@@ -1,37 +1,36 @@
 import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
+// import logo from './logo.svg';
+import mp from './images/mp.jpg'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <Counter />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+        <img src={mp} className="App-logo" alt="logo" />
+        <p style={{paddingTop: 64}}>
+          Cheers! My name is Mikhail Petukhov
         </p>
-        <span>
-          <span>Learn </span>
+        <span >
+          <span>Find me on </span>
           <a
             className="App-link"
-            href="https://reactjs.org/"
+            href="https://github.com/Ascendancey"
             target="_blank"
             rel="noopener noreferrer"
           >
-            React
+            GitHub
           </a>
-          <span>, </span>
+          <span> and </span>
           <a
             className="App-link"
-            href="https://redux.js.org/"
+            href="https://www.linkedin.com/in/mpetukhov/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Redux
+            LinkedIn
           </a>
-          <span>, </span>
+          {/* <span>, </span>
           <a
             className="App-link"
             href="https://redux-toolkit.js.org/"
@@ -48,7 +47,7 @@ function App() {
             rel="noopener noreferrer"
           >
             React Redux
-          </a>
+          </a> */}
         </span>
       </header>
     </div>
