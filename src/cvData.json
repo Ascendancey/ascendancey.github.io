@@ -39,36 +39,42 @@
     "work": [
       {
         "company": "Bosch",
+        "link": "https://www.bosch.com/",
         "title": "Working Student - Software Developer (Web)",
         "years": "September 2021 - Present",
         "description": "Development of security tracking tools for the cross-computing department. Stack: React, JavaScript + Spring, Java."
       },
       {
         "company": "Bosch",
+        "link": "https://www.bosch.com/",
         "title": "Working Student - Management Consulting",
         "years": "March 2021 - August 2021",
         "description": "Driving the Bosch Innovation Academy development. Conception and implementation of trainings in Confluence. Development of intranet pages for Bosch training portal."
       },
       {
         "company": "OSRAM AMLS",
+        "link": "https://www.osram-amls.com/",
         "title": "Working Student - Business Intelligence",
         "years": "January 2020 - September 2020",
         "description": "Tracked KPIs for digitisation of plants by developing dashboards in Power BI. Supported digital implementation of Global Footprint Strategy and Provided digital solutions for Long Term Availability projects."
       },
       {
         "company": "GEMA",
+        "link": "https://www.gema.de/",
         "title": "Student Consultant - Software Development (Web)",
         "years": "April 2020 - July 2020",
         "description": "Conceptualised and developed a high-fidelity prototype of web application for musical bands' platform. Deployed utilising Django, Bootstrap4, HTML and CSS. Acted as SCRUM master during the project."
       },
       {
         "company": "Hemmersbach",
+        "link": "https://hemmersbach.com/",
         "title": "Global Service Delivery Manager",
         "years": "October 2017 - August 2019",
         "description": "Planned and implemented international IT projects for leading global IT companies, having been responsible for commercial and operational performance in 50+ countries. Started improvement projects and lead them to implementation, developed and improved workflows tailored to projects’ needs. Personnel responsibility (avg. 20 employees). Won ‘Best Country Performance’ title."
       },
       {
         "company": "Hemmersbach",
+        "link": "https://hemmersbach.com/",
         "title": "Central Service Delivery Manager",
         "years": "April 2015 - September 2017",
         "description": "Planned and implemented international IT projects for leading global IT companies. Tracked and steered project implementation. Managed client relationship."
