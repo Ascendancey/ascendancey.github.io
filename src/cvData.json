@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Mikhail Petukhov",
+    "occupation": "Web Developer",
+    "description": "My proficiency lies in React (JS) as frontend and Spring (Java) as backend. You are welcome to connect with me on LinkedIn!",
+    "image": "profilepic.jpg",
+    "bio": "I am a fullstack developer with 1,5 years of business and academical experience in the field, with proficiency in React (JS) as frontend and Spring (Java) as backend. My profile rounds up with Global Service Manager experience, with 4+ years of managing global IT projects experience for leading IT outsourcers. Structure and detail-oriented, I am proficient at driving my team to result and building professional relationships.",
+    "address": {
+      "city": "Munich"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mpetukhov/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Ascendancey",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "CV": {
+    "education": [
+      {
+        "school": "Ludwig-Maximilians-Universität München",
+        "degree": "Master in Management and Digital Technology",
+        "graduated": "October 2022",
+        "description": "Studied a broad range of IT, Business topics and latest trends, the interconnection between them and how to make most use of it in practice."
+      },
+      {
+        "school": "Peter the Great St.Petersburg Polytechnic University",
+        "degree": "Diploma degree (Master equivalent) in Business Informatics",
+        "graduated": "June 2014",
+        "description": "Broadened knowledge and experience in IT and Business and built foundational knowledge of Fundamental Sciences."
+      }
+    ],
+    "work": [
+      {
+        "company": "Bosch",
+        "title": "Working Student - Software Developer (Web)",
+        "years": "September 2021 - Present",
+        "description": "Development of security tracking tools for the cross-computing department. Stack: React, JavaScript + Spring, Java."
+      },
+      {
+        "company": "Bosch",
+        "title": "Working Student - Management Consulting",
+        "years": "March 2021 - September 2021",
+        "description": "Driving the Bosch Innovation Academy development. Conception and implementation of trainings in Confluence. Development of intranet pages for Bosch training portal."
+      },
+      {
+        "company": "OSRAM AMLS",
+        "title": "Working Student - Business Intelligence",
+        "years": "January 2020 - September 2020",
+        "description": "Tracked KPIs for digitisation of plants by creating dashboard in Power BI). Supported digital implementation of Global Footprint Strategy and Provided digital solutions for Long Term Availability projects."
+      },
+      {
+        "company": "GEMA",
+        "title": "Student Consultant - Software Development (Web)",
+        "years": "April 2020 - July 2020",
+        "description": "Conceptualised and developed a high-fidelity prototype of web application for musical bands' platform. Deployed utilising Django, Bootstrap4, HTML and CSS. Acted as SCRUM master during the project."
+      },
+      {
+        "company": "Hemmersbach",
+        "title": "Global Service Delivery Manager",
+        "years": "October 2017 - August 2019",
+        "description": "Planned and implemented international IT projects for leading global IT companies, having been responsible for commercial and operational performance in 50+ countries. Started improvement projects and lead them to implementation, developed and improved workflows tailored to projects’ needs. Personnel responsibility (avg. 20 employees). Won ‘Best Country Performance’ title."
+      },
+      {
+        "company": "Hemmersbach",
+        "title": "Central Service Delivery Manager",
+        "years": "October 2017 - August 2019",
+        "description": "Planned and implemented international IT projects for leading global IT companies. Tracked and steered project implementation. Managed client relationship."
+      }
+    ],
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Spring",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      }
+    ]
+  }
+}
