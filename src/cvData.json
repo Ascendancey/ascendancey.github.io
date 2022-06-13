@@ -46,7 +46,7 @@
       {
         "company": "Bosch",
         "title": "Working Student - Management Consulting",
-        "years": "March 2021 - September 2021",
+        "years": "March 2021 - August 2021",
         "description": "Driving the Bosch Innovation Academy development. Conception and implementation of trainings in Confluence. Development of intranet pages for Bosch training portal."
       },
       {
@@ -70,11 +70,11 @@
       {
         "company": "Hemmersbach",
         "title": "Central Service Delivery Manager",
-        "years": "October 2017 - August 2019",
+        "years": "April 2015 - September 2017",
         "description": "Planned and implemented international IT projects for leading global IT companies. Tracked and steered project implementation. Managed client relationship."
       }
     ],
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Technologies proficiency",
     "skills": [
       {
         "name": "ReactJs",
