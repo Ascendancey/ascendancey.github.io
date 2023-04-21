@@ -2,11 +2,11 @@
   "main": {
     "name": "Mikhail Petukhov",
     "occupation": "Web Developer",
-    "description": "My proficiency lies in React (JS) as frontend and Spring (Java) as backend. You are welcome to connect with me on LinkedIn!",
+    "description": "Passionate about creating top-notch experiences using React, NestJS, and TypeScript.",
     "image": "profilepic.jpg",
-    "bio": "I am a fullstack developer with 1,5 years of business and academical experience in the field, with proficiency in React (JS) as frontend and Spring (Java) as backend. My profile rounds up with Global Service Manager experience, with 4+ years of managing global IT projects experience for leading IT outsourcers. Structure and detail-oriented, I am proficient at driving my team to result and building professional relationships.",
+    "bio": "I'm a full-stack developer with a passion for building exceptional applications using React, NestJS, and TypeScript. With over 4 years of development experience in both academic and business settings, I've honed my skills and developed a keen eye for detail. Prio to that I also have 4+ years of experience managing global IT projects for leading outsourcers, which means I know how to drive results and build professional relationships. Let's connect on LinkedIn and stay in touch - I'm always happy to network, chat about web development and learn more about the community!",
     "address": {
-      "city": "Munich"
+      "country": "Germany"
     },
     "social": [
       {
@@ -22,27 +22,20 @@
     ]
   },
   "CV": {
-    "education": [
-      {
-        "school": "Ludwig-Maximilians-Universität München",
-        "degree": "Master in Management and Digital Technology",
-        "graduated": "2019 - 2022",
-        "description": "Studied a broad range of IT, Business topics and latest trends, the interconnection between them and how to make most use of it in practice."
-      },
-      {
-        "school": "Peter the Great St.Petersburg Polytechnic University",
-        "degree": "Diploma degree (Master equivalent) in Business Informatics",
-        "graduated": "2009 - 2014",
-        "description": "Broadened knowledge and experience in IT and Business and built foundational knowledge of Fundamental Sciences."
-      }
-    ],
     "work": [
+      {
+        "company": "MediaMarktSaturn",
+        "link": "https://www.mediamarktsaturn.com/en",
+        "title": "Fullstack Software Developer",
+        "years": "November 2022 - Present",
+        "description": "Creating intuitive user experiences for the Customer Care AI department. Skilled in building reusable UI components with React and TypeScript, as well as implementing backend for frontend and GraphQL APIs for chatbots and tools around it."
+      },
       {
         "company": "Bosch",
         "link": "https://www.bosch.com/",
         "title": "Working Student - Software Developer (Web)",
-        "years": "September 2021 - Present",
-        "description": "Development of security tracking tools for the cross-computing department. Stack: React, JavaScript + Spring, Java."
+        "years": "September 2021 - October 2022",
+        "description": "Developed security tracking tools for the department, utilizing a tech stack including React, JavaScript, Spring, and Java."
       },
       {
         "company": "Bosch",
@@ -80,6 +73,20 @@
         "description": "Planned and implemented international IT projects for leading global IT companies. Tracked and steered project implementation. Managed client relationship."
       }
     ],
+    "education": [
+      {
+        "school": "Ludwig-Maximilians-Universität München",
+        "degree": "Master in Management and Digital Technology",
+        "graduated": "2019 - 2022",
+        "description": "Studied a broad range of IT, Business topics and latest trends, the interconnection between them and how to make most use of it in practice."
+      },
+      {
+        "school": "Peter the Great St.Petersburg Polytechnic University",
+        "degree": "Diploma degree (Master equivalent) in Business Informatics",
+        "graduated": "2009 - 2014",
+        "description": "Broadened knowledge and experience in IT and Business and built foundational knowledge of Fundamental Sciences."
+      }
+    ],
     "skillmessage": "Technologies proficiency",
     "skills": [
       {
@@ -87,11 +94,15 @@
         "level": "70%"
       },
       {
+        "name": "TypeScript",
+        "level": "70%"
+      },
+      {
         "name": "JavaScript",
         "level": "70%"
       },
       {
-        "name": "TypeScript",
+        "name": "NestJS",
         "level": "60%"
       },
       {
@@ -117,6 +128,10 @@
       {
         "name": "Git",
         "level": "80%"
+      },
+      {
+        "name": "Dialogflow",
+        "level": "50%"
       }
     ]
   }
