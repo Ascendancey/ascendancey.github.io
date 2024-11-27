@@ -18,7 +18,7 @@ class CV extends Component {
       });
       var work = this.props.data.work.map(function(work) {
         return (
-          <div key={work.company}>
+          <div key={work.title}>
             <a href={work.link}>
               <h3>{work.company}</h3>
             </a>
