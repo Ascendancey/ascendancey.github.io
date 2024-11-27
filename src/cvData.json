@@ -4,7 +4,7 @@
     "occupation": "Web Developer",
     "description": "Passionate about creating top-notch experiences using React, NestJS, and TypeScript.",
     "image": "profilepic.jpg",
-    "bio": "I'm a full-stack developer with a passion for building exceptional applications using React, NestJS, and TypeScript. With over 4 years of development experience in both academic and business settings, I've honed my skills and developed a keen eye for detail. Prio to that I also have 4+ years of experience managing global IT projects for leading outsourcers, which means I know how to drive results and build professional relationships. Let's connect on LinkedIn and stay in touch - I'm always happy to network, chat about web development and learn more about the community!",
+    "bio": "I'm a full-stack developer with a passion for building exceptional applications using React, NestJS, and TypeScript. With over 5 years of software development experience in both academic and business settings, I've honed my skills and developed a keen eye for detail. Prio to that I have also managed global IT projects for leading outsourcers for over 4 years, which means I know how to drive results and build professional relationships. Let's connect on LinkedIn and stay in touch - I'm always happy to network, chat about web development and learn more about the community!",
     "address": {
       "country": "Germany"
     },
@@ -28,7 +28,7 @@
         "link": "https://www.mediamarktsaturn.com/en",
         "title": "Fullstack Software Developer",
         "years": "November 2022 - Present",
-        "description": "Creating intuitive user experiences for the Customer Care AI department. Skilled in building reusable UI components with React and TypeScript, as well as implementing backend for frontend and GraphQL APIs for chatbots and tools around it."
+        "description": "Creating intuitive user experiences for the Customer Care AI department. Skilled in building reusable UI components with React and TypeScript, implementing NestJS backend for chatbots, voicebots and end user tools."
       },
       {
         "company": "Bosch",
