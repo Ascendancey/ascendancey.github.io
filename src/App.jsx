@@ -8,6 +8,10 @@ import CV from './Components/CV';
 // import Testimonials from './Components/Testimonials';
 // import Portfolio from './Components/Portfolio';
 import * as data from './cvData.json';
+import $ from "jquery";
+window.$ = window.jQuery = $;
+import 'jquery-migrate';
+
 
 class App extends Component {
   constructor(props) {
